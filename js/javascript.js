@@ -1,4 +1,6 @@
 function init(){
 	console.log("javascript leído");
-	console.log("E esta rama se modificará únicamente el javascript");
+	console.log("En esta rama se modificará únicamente el javascript");
+
+	$("body").append("<p class="mensaje">Este es un mensaje agregado vía JavaScript</p>");
 }

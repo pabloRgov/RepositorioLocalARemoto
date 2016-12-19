@@ -1,0 +1,13 @@
+*{
+	box-sizing: border-box;
+}
+
+h2{
+	color: blue;
+	font-style: bold;
+}
+
+.mensaje{
+	background-color: rgba(255, 20, 20, 0.6);
+	color: rgba(255, 20, 20, 0.9);
+}
